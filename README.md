@@ -15,11 +15,11 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zo-Bro-23&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YIQI2159&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
 </p>
 
 <a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=YIQI2159&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=YIQI2159&repo=YIQI2159&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
 <a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
