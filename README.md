@@ -18,24 +18,8 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YIQI2159&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
 </p>
 
-
-<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.zohan.tech/api/top-langs/?username=Zo-Bro-23&layout=compact&hide_border=true&theme=tokyonight" /></a>
-<a href="https://wakatime.com/@ZoBro23"><img align="center" src="https://github-readme-stats.zohan.tech/api/wakatime/?username=ZoBro23&layout=compact&hide_border=true&theme=tokyonight" /></a>
-</p>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Zo-Bro-23&theme=apprentice">
-  </a>
-</p>
-
 <a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=YIQI2159&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
 <a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
