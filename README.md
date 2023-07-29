@@ -18,12 +18,12 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YIQI2159&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
 </p>
 
-<a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
+<a href="https://github.com/YIQI2159#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=YIQI2159&repo=YIQI2159&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
 </a>
 
-<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
-  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<a href="https://github.com/YIQI2159#gh-dark-mode-only" align="center">
+  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=YIQI2159&repo=YIQI2159&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 
 ## 📘 My top open source projects
