@@ -1,41 +1,12 @@
 
 <h3 align="center">
   Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=High%20school%20freshman;Web%20and%20app%20developer;Pianist;Author;Euro%20Truck%2FMicrosoft%20Flight%20Simulator%20Fanboy;3D%20Designer;Minecraft%20enthusiast;Always%20eager%20to%20learn%20%3A)&font=Fira%20Code&center=true&color=f75c7e&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
-</p>
-
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://linkedin.com/in/zobro23"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Y9lbNqu.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://medium.com/@zobro23"><img width="32px" title="Medium" src="https://i.imgur.com/8G9R1ep.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fiverr.com/zobro23"><img width="32px" title="Fiverr" src="https://i.imgur.com/OyA8gsq.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://npmjs.com/~zo-bro-23"><img width="32px" title="NPM" src="https://i.imgur.com/zi1vRF3.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.thingiverse.com/zobro23/"><img width="32px" title="Thingiverse" src="https://i.imgur.com/sjvRVzs.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-<br/>
-
-<p align="center">
-  <a href="https://artist.link/zobro23"><img width="32px" title="SongLink" src="https://i.imgur.com/pfBS0xC.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://open.spotify.com/artist/2sK8v6VqxrapoNfrnFGa5r"><img width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://music.apple.com/us/artist/zobro23/1654967789"><img width="32px" title="Apple Music" src="https://i.imgur.com/JvX3OIp.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://music.amazon.in/artists/B0BMM2MHZ2/zobro23"><img width="32px" title="Amazon Music" src="https://i.imgur.com/HFzqj4h.png"></a>
+  <a href="https://open.spotify.com/YIQI"><img width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://youtube.com/@zobro23"><img width="32px" title="YouTube" src="https://i.imgur.com/oPN1zuZ.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://soundcloud.com/zobro23"><img width="32px" title="SoundCloud" src="https://i.imgur.com/jAIlfwk.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
