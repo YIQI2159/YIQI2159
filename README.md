@@ -1,13 +1,10 @@
-# YIQI
-<h3 align="center">
-  Welcome to my profile!
-</h3>
-<!-- Social icons section -->
+# 泆淇
+<h2 align="center">
+  Welcome to my homePage!
+</h2>
 <p align="center">
-  <a href="https://open.spotify.com/user/31gmb2sfgcrz4bgvaluhggs5crnq"><img width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.pinterest.com/yiqi2159/"><img width="32px" title="Spotify" src="https://i.pinimg.com/564x/a5/4b/f4/a54bf4dddd898c6172beda106217d3d0.jpg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://open.spotify.com/user/31gmb2sfgcrz4bgvaluhggs5crnq"><img width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.pinterest.com/yiqi2159/"><img width="32px" title="Pinterest" src="https://avatars.githubusercontent.com/u/541152?s=200&v=4"></a>
 </p>
 <br/>
 
@@ -29,6 +26,8 @@
 
 ### 👨‍💻 Programming and markup languages
 <p>
+  <a href="https://github.com/search?q=user%3AYIQI2159+language%3AJava"><img alt="java" src="https://custom-icon-badges.demolab.com/badge/java-025E8C.svg?logo=Java&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3AYIQI2159+language%3AVue"><img alt="vue" src="https://custom-icon-badges.demolab.com/badge/vue-025E8C.svg?logo=Vue&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AZo-Bro-23+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
