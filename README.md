@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 📫 How to reach me: https://github.com/YIQI2159/YIQI2159
 👀 My Blog: https://yiqi2159.github.io/YIQI_VuePress/
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=YIQI2159&show_icons=true&theme=tokyonight)
