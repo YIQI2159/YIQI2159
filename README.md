@@ -1,5 +1,6 @@
-<div style="background-image: url('https://i.pinimg.com/originals/32/47/4a/32474a2a9e1698c5014eb35b4f446b3b.jpg');">
+<div>
 # 👀泆淇
+<p align="center"><img  width="70px" title="YIQI2159" src="https://i.pinimg.com/originals/4e/1e/da/4e1eda6ebd932f91c5a1225a5b27edbc.gif"></p>
 <h2 align="center">
   Welcome to my homePage!
 </h2>
