@@ -1,14 +1,15 @@
-# 泆淇
+# 👀泆淇
 <h2 align="center">
   Welcome to my homePage!
 </h2>
 <p align="center">
   <a href="https://open.spotify.com/user/31gmb2sfgcrz4bgvaluhggs5crnq"><img width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.pinterest.com/yiqi2159/"><img width="32px" title="Pinterest" src="https://avatars.githubusercontent.com/u/541152?s=200&v=4"></a>
+  <a href="https://www.pinterest.com/yiqi2159/"><img width="32px" title="Pinterest" src="https://avatars.githubusercontent.com/u/541152?s=200&v=4"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/channels/1083217138178859018"><img width="32px" title="DisCord" src="https://i.pinimg.com/564x/45/fc/04/45fc047a4d037ea0e090b341a46ff4e9.jpg"></a>
 </p>
 <br/>
 
-## 📊 Github stats
+## 📈 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -24,7 +25,7 @@
 </a>
 
 
-### 👨‍💻 Programming and markup languages
+### 🎫 掌握语言
 <p>
   <a href="https://github.com/search?q=user%3AYIQI2159+language%3AJava"><img alt="java" src="https://custom-icon-badges.demolab.com/badge/java-025E8C.svg?logo=Java&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3AYIQI2159+language%3AVue"><img alt="vue" src="https://custom-icon-badges.demolab.com/badge/vue-025E8C.svg?logo=Vue&logoColor=white"></a>
