@@ -1,10 +1,8 @@
 <div>
 # 👀泆淇
 <p align="center"><img  width="70px" title="YIQI2159" src="https://i.pinimg.com/originals/4e/1e/da/4e1eda6ebd932f91c5a1225a5b27edbc.gif"></p>
-<h2 align="center">
-  Welcome to my homePage!
-</h2>
-  <img  width="100%" title="YIQI2159" src="header_.png">
+<!--<img  width="100%" title="YIQI2159" src="/img/Head.svg">-->
+<img  width="100%" title="YIQI2159" src="/img/header_.png">
 <p align="center">
   <a href="https://open.spotify.com/user/31gmb2sfgcrz4bgvaluhggs5crnq"><img width="32px" title="Spotify" src="https://i.pinimg.com/564x/a9/52/74/a95274a6d60c3d3780790bd86da55ec1.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.pinterest.com/yiqi2159/"><img width="32px" title="Pinterest" src="https://cdn-icons-png.flaticon.com/512/725/725296.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
