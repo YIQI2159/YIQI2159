@@ -14,9 +14,9 @@
 ## 📈 Github stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YIQI2159&theme=tokyonight" alt="Zo-Bro-23's github stats" /></a>
-</p>
+</p>-->
 
 <a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
   <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=Zo-Bro-23&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
